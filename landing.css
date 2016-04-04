@@ -1,0 +1,20 @@
+body {
+	background-color: black;
+}
+
+.title {
+	color: white;
+	text-align: center;
+	width: 100%;
+	top: 20vh;
+	font-family: Serif;
+}
+
+.logos {
+	text-align: center;
+	top: 50vh;
+}
+
+.logos img {
+	padding: 0px 30px;
+}
